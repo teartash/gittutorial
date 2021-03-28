@@ -38,6 +38,10 @@
 
 - git checkout branchName
     > <p dir="rtl" align="right">سوئیچ کردن از شاخه فعلی به شاخه تعیین شده</p>
+	
+	
+- git switch branchName
+    > <p dir="rtl" align="right">سوئیچ کردن از شاخه فعلی به شاخه تعیین شده</p>
 
 - git merge branchName
     > <p dir="rtl" align="right">شاخه مذکور را با شاخه فعلی ادغام می کند</p>
